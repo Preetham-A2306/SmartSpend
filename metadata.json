@@ -1,0 +1,6 @@
+{
+  "name": "SmartSpend – Personal Expense Tracker",
+  "description": "SmartSpend Flutter & SQLite mobile app with Material Design 3, CRUD operations, budgeting, reports, and B.Tech college mini-project deliverables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
